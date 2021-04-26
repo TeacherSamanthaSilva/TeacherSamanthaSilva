@@ -9,4 +9,4 @@
 ### Algumas curiosidades sobre mim 
  Sou Professora | Especialista em desenvolver pessoas e formar a nova geração de desenvolvedores| Desenvolvedor Frontend | Game Designer | HTML, CSS e Javascript | PHP | Java | Android | C# | Xamarin | Marketing Digital | Designer Gráfico | Corel Draw
 
-- [Courses] 👨🏼‍🏫 - O Objetivo do meu github é divulgar o meu trabalho como desenvolvedor frontend, aqui vocês irão encontrar vários projetos que eu desenvolvi usando html,css e javascript
+- [Courses] 👨🏼‍🏫 - Pós-Graduanda em Marketing Digital pela Unicesumar | Bacharel em Ciência da Computação pela Unifacvest | Técnico em Informática pelo Cedup Renato Ramos da Silva
