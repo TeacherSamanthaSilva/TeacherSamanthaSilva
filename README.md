@@ -10,3 +10,5 @@
  Sou Professora | Especialista em desenvolver pessoas e formar a nova geração de desenvolvedores| Desenvolvedor Frontend | Game Designer | HTML, CSS e Javascript | PHP | Java | Android | C# | Xamarin | Marketing Digital | Designer Gráfico | Corel Draw
 
 - [Courses] 👨🏼‍🏫 - Pós-Graduanda em Marketing Digital pela Unicesumar | Bacharel em Ciência da Computação pela Unifacvest | Técnico em Informática pelo Cedup Renato Ramos da Silva
+
+[![Samantha's github stats](https://github-readme-stats.vercel.app/api?username=felipefialho&theme=dark&show_icons=true&count_private=true)](https://github.com/TeacherSamanthaSilva)
