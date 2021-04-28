@@ -11,4 +11,4 @@
 
 - [Courses] 👨🏼‍🏫 - Pós-Graduanda em Marketing Digital pela Unicesumar | Bacharel em Ciência da Computação pela Unifacvest | Técnico em Informática pelo Cedup Renato Ramos da Silva
 
-[![Samantha's github stats](https://github-readme-stats.vercel.app/api?username=felipefialho&theme=dark&show_icons=true&count_private=true)](https://github.com/TeacherSamanthaSilva)
+[![Samantha's github stats](https://github-readme-stats.vercel.app/api?username=TeacherSamanthaSilva&theme=dark&show_icons=true&count_private=true)](https://github.com/TeacherSamanthaSilva)
