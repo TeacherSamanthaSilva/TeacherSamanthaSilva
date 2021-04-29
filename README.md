@@ -11,4 +11,17 @@
 
 - [Courses] 👨🏼‍🏫 - Pós-Graduanda em Marketing Digital pela Unicesumar | Bacharel em Ciência da Computação pela Unifacvest | Técnico em Informática pelo Cedup Renato Ramos da Silva
 
-[![Samantha's github stats](https://github-readme-stats.vercel.app/api?username=TeacherSamanthaSilva&theme=dark&show_icons=true&count_private=true)](https://github.com/TeacherSamanthaSilva)
+![image](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![image](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![image](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![image](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+![image](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+<center>
+<table>
+    <tr>
+        <td><img width="480px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TeacherSamanthaSilva&hide=html&layout=compact&theme=buefy" /></td>
+        <td><img width="495px" align="left" src="https://github-readme-stats.vercel.app/api?username=TeacherSamanthaSilva&theme=buefy"/></td>
+    </tr>   
+</table>
+</center>  
