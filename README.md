@@ -11,7 +11,7 @@
 
 - [Courses] 👨🏼‍🏫 - Pós-Graduanda em Marketing Digital pela Unicesumar | Bacharel em Ciência da Computação pela Unifacvest | Técnico em Informática pelo Cedup Renato Ramos da Silva
 
-<p align="center">
+<p align="left">
   <a href="https://www.instagram.com/keidsondesigner/" alt="Instagram">
   <img src="https://img.shields.io/badge/-Instagram-DF0174?style=for-the-badge&logo=instagram&logoColor=white&link=https://www.instagram.com/samanthaadelinecordova/"/></a>
   
