@@ -1,34 +1,29 @@
-# TeacherSamanthaSilva
-# Olá meu nome é Samantha
-
-[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/TeacherSamanthaSilva)](https://github.com/TeacherSamanthaSilva)
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/samanthaadeline/)](https://www.linkedin.com/in/samanthaadeline/)
+### Oieee, sou a Danusa Gianpietro!!!
 
 
+- 🔭 Instrutora de Programação |  Desenvolvedor Frontend | Game Designer | Social Media 
+- 🌱  Estudando Html, css e Javascript
+- 📫  Contate- me no email: samanthaadelinecordova@outlook.com
+- ⚡  Curiosidades: sou mãe de um gato chamado Gohan
 
-### Algumas curiosidades sobre mim 
- Sou Professora | Especialista em desenvolver pessoas e formar a nova geração de desenvolvedores| Desenvolvedor Frontend | Game Designer | HTML, CSS e Javascript | PHP | Java | Android | C# | Xamarin | Marketing Digital | Designer Gráfico | Corel Draw
-
-- [Courses] 👨🏼‍🏫 - Pós-Graduanda em Marketing Digital pela Unicesumar | Bacharel em Ciência da Computação pela Unifacvest | Técnico em Informática pelo Cedup Renato Ramos da Silva
-
-<p align="left">
-  <a href="https://www.instagram.com/keidsondesigner/" alt="Instagram">
-  <img src="https://img.shields.io/badge/-Instagram-DF0174?style=for-the-badge&logo=instagram&logoColor=white&link=https://www.instagram.com/samanthaadelinecordova/"/></a>
+ <div>
+  <a href="https://github.com/TeacherSamanthaSilva">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=TeacherSamanthaSilva&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TeacherSamanthaSilva&layout=compact&langs_count=7&theme=tokyonight"/>
+</div>
   
-  <a href="https://www.facebook.com/keidsonroby/" alt="Facebook">
-  <img src="https://img.shields.io/badge/-Facebook-3b5998?style=for-the-badge&logo=facebook&logoColor=white&link=https://www.facebook.com/samantha.adeline/"/></a>
+  <div style="display: inline_block"><br>
+  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   
+  <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  
+  <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+  
+  
+  ##
 
-![image](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![image](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![image](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![image](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
-![image](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
-## ⭐ GitHub Stats
-
-<p align = "center">
-  <img src = "https://github-readme-stats.vercel.app/api?username=TeacherSamanthaSilva&show_icons=true&theme=tokyonight&line_height=27">
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=TeacherSamanthaSilva&hide=css,java,html&theme=tokyonight">
-</p>
-
+<div> 
+  <a href="https://www.instagram.com/samanthaadelinecordova//" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href = "mailto:dan.giampi@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/samanthaadeline//" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  </div>
