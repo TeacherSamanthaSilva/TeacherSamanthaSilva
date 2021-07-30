@@ -1,4 +1,4 @@
-### Oieee, sou a Danusa Gianpietro!!!
+### Olá meu Nome é Samantha Adeline
 
 
 - 🔭 Instrutora de Programação |  Desenvolvedor Frontend | Game Designer | Social Media 
