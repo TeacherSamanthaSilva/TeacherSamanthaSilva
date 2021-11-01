@@ -1,7 +1,7 @@
 ### Olá meu Nome é Samantha Adeline
 
 
-- 🔭 Instrutora de Programação |  Desenvolvedor Frontend | Game Designer | Social Media 
+- 🔭 Educadora Tecnólogica |  Desenvolvedor Frontend 
 - 🌱  Estudando Html, css e Javascript
 - 📫  Contate- me no email: samanthaadelinecordova@outlook.com
 - ⚡  Curiosidades: sou mãe de um gato chamado Gohan
