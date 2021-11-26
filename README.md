@@ -1,7 +1,7 @@
 ### Olá meu Nome é Samantha Adeline
 
 
-- 🔭 Educadora Tecnólogica |  Desenvolvedor Frontend 
+- 🔭 Educadora Tecnólogica |  Desenvolvedora Frontend 
 - 🌱  Estudando Html, css e Javascript
 - 📫  Contate- me no email: samanthaadelinecordova@outlook.com
 - ⚡  Curiosidades: sou mãe de um gato chamado Gohan
@@ -23,7 +23,7 @@
   ##
 
 <div> 
-  <a href="https://www.instagram.com/samanthaadelinecordova//" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href="https://www.instagram.com/samanthaadelinecordovas/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:dan.giampi@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/samanthaadeline//" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   </div>
